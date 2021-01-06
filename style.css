@@ -56,6 +56,9 @@ h3{
 .work{
     height: 100vh;
 }
+#latest{
+    color: tomato;
+}
 .showcase{
     display: flex;
     justify-content: center;
